@@ -6,6 +6,7 @@ def my_square(y):
 
 def my_square2(x):
 	""" this is the second square function
+	"""
 	return(x ** 2)
 
 print(my_square(4))
